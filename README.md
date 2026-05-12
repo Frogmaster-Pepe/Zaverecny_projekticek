@@ -1,1 +1,0 @@
-# Zaverecny_projekticek
