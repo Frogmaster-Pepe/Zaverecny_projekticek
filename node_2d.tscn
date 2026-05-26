@@ -1,10 +1,35 @@
 [gd_scene format=3 uid="uid://4pqund3nukl7"]
 
 [ext_resource type="Texture2D" uid="uid://4q335xxs2p" path="res://icon.svg" id="1_0e48y"]
-[ext_resource type="Script" uid="uid://dxv6v1rgnrl0d" path="res://Sprite2d.cs" id="2_epypp"]
+[ext_resource type="Script" uid="uid://c40ghriqptgnn" path="res://Pl1.cs" id="1_epypp"]
+[ext_resource type="Script" uid="uid://ws68eivhiqmg" path="res://Pl2.cs" id="3_epypp"]
 
-[node name="Node2D" type="Node2D" unique_id=285045869]
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_epypp"]
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=782298601]
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0hol4"]
+
+[node name="Characters" type="Node2D" unique_id=285045869]
+
+[node name="Pl1" type="CharacterBody2D" parent="." unique_id=1730771579]
+motion_mode = 1
+script = ExtResource("1_epypp")
+
+[node name="Pl1s" type="Sprite2D" parent="Pl1" unique_id=782298601]
 texture = ExtResource("1_0e48y")
-script = ExtResource("2_epypp")
+
+[node name="Pl1c" type="CollisionShape2D" parent="Pl1" unique_id=436981252]
+shape = SubResource("RectangleShape2D_epypp")
+
+[node name="Pl1a" type="AnimatedSprite2D" parent="Pl1" unique_id=225629960]
+
+[node name="Pl2" type="CharacterBody2D" parent="." unique_id=27897933]
+motion_mode = 1
+script = ExtResource("3_epypp")
+
+[node name="Pl2s" type="Sprite2D" parent="Pl2" unique_id=2072784918]
+texture = ExtResource("1_0e48y")
+
+[node name="Pl2c" type="CollisionShape2D" parent="Pl2" unique_id=2053388900]
+shape = SubResource("RectangleShape2D_0hol4")
+
+[node name="Pl2a" type="AnimatedSprite2D" parent="Pl2" unique_id=1979530607]
