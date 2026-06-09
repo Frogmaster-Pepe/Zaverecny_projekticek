@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://ca68s2ck8l7ke"]
+
+[ext_resource type="Script" uid="uid://c56ilwpj2i0e1" path="res://scene/Areas/Lava.cs" id="1_o1wid"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_4i8sy"]
+size = Vector2(16, 16)
+
+[node name="Lava" type="Node2D" unique_id=1589709603]
+
+[node name="Lava" type="Area2D" parent="." unique_id=1475928306]
+collision_layer = 4
+script = ExtResource("1_o1wid")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Lava" unique_id=1182829394]
+shape = SubResource("RectangleShape2D_4i8sy")

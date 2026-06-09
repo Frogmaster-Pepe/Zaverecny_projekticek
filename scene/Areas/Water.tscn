@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://bg6t0qwetlm0f"]
+
+[ext_resource type="Script" uid="uid://bmdxsj6x4dwf" path="res://scene/Areas/Water.cs" id="1_5354k"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_4xs4q"]
+size = Vector2(16, 16)
+
+[node name="Water" type="Node2D" unique_id=899458932]
+
+[node name="Water" type="Area2D" parent="." unique_id=1944071840]
+collision_layer = 2
+script = ExtResource("1_5354k")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Water" unique_id=2099281454]
+shape = SubResource("RectangleShape2D_4xs4q")

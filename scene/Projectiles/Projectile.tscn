@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://dhgr6qsci4ida"]
+
+[ext_resource type="Script" uid="uid://dsy8dkp7evcks" path="res://scene/Projectiles/Projectile.cs" id="1_yn06f"]
+[ext_resource type="Texture2D" uid="uid://bkcogun8praqt" path="res://scene/Projectiles/pixil-frame-0 (4).png" id="2_py3it"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_53og0"]
+radius = 14.0
+
+[node name="Projectile" type="Area2D" unique_id=1007240973]
+scale = Vector2(0.4, 0.4)
+collision_layer = 16
+collision_mask = 2
+script = ExtResource("1_yn06f")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1428293759]
+shape = SubResource("CircleShape2D_53og0")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=965810546]
+position = Vector2(0, 2)
+texture = ExtResource("2_py3it")
+
+[connection signal="area_entered" from="." to="." method="OnAreaEntered"]
+[connection signal="body_entered" from="." to="." method="OnBodyEntered"]

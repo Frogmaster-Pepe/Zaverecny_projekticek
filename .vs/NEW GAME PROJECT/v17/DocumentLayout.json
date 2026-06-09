@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\characters\\pl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\characters\\pl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\characters\\pl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\characters\\pl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\areas\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\areas\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\areas\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\areas\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\objects\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\objects\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\projectiles\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\projectiles\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|c:\\users\\rotsc\\c_sharp\\zaverecny_projekticek\\scene\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E06BDA-A7AC-45A4-8CB5-A07EC690F1CA}|New Game Project.csproj|solutionrelative:scene\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\MainMenu.cs",
+              "RelativeDocumentMoniker": "scene\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\MainMenu.cs",
+              "RelativeToolTip": "scene\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:18:22.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Objects\\Rock.cs",
+              "RelativeDocumentMoniker": "scene\\Objects\\Rock.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Objects\\Rock.cs",
+              "RelativeToolTip": "scene\\Objects\\Rock.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:57:43.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Areas\\Water.cs",
+              "RelativeDocumentMoniker": "scene\\Areas\\Water.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Areas\\Water.cs",
+              "RelativeToolTip": "scene\\Areas\\Water.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:35:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lava.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Areas\\Lava.cs",
+              "RelativeDocumentMoniker": "scene\\Areas\\Lava.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Areas\\Lava.cs",
+              "RelativeToolTip": "scene\\Areas\\Lava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:35:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Projectiles\\Projectile.cs",
+              "RelativeDocumentMoniker": "scene\\Projectiles\\Projectile.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Projectiles\\Projectile.cs",
+              "RelativeToolTip": "scene\\Projectiles\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:10:22.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pl2.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Characters\\Pl2.cs",
+              "RelativeDocumentMoniker": "scene\\Characters\\Pl2.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Characters\\Pl2.cs",
+              "RelativeToolTip": "scene\\Characters\\Pl2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:54:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pl1.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Characters\\Pl1.cs",
+              "RelativeDocumentMoniker": "scene\\Characters\\Pl1.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Zaverecny_projekticek\\scene\\Characters\\Pl1.cs",
+              "RelativeToolTip": "scene\\Characters\\Pl1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:28:52.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

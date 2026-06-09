@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dtgxphrmwtoy1"]
+
+[node name="Map" type="Node" unique_id=1560476138]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=409205859]
